@@ -1,3 +1,10 @@
+Animal Detection at URJA For this purpose, we are incorporating algorithms used
+for detection into the surveillance cameras already available in NITK. We are using
+You Only Look Once (YOLO v5) which we have trained to detect dogs in NITK.
+
+
+
+
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
