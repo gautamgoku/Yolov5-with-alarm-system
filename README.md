@@ -11,4 +11,4 @@ by a large margin. Also we have done literature reviews to better understand the
 camera placement. We have gathered video samples of the URJA surveillance and
 used it for the detection purpose..
 
-![alt text](https://github.com/gautamgoku/Yolov5-with-alarm-system/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/gautamgoku/Yolov5-with-alarm-system/blob/master/Screenshot 2022-12-03 173204.jpg?raw=true)
