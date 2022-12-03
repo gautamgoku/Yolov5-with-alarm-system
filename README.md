@@ -10,3 +10,5 @@ because it achieves faster results beating other real-time object detection algo
 by a large margin. Also we have done literature reviews to better understand the
 camera placement. We have gathered video samples of the URJA surveillance and
 used it for the detection purpose..
+
+![alt text](https://github.com/gautamgoku/Yolov5-with-alarm-system/blob/master/image.jpg?raw=true)
